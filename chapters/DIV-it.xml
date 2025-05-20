@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc maxdepth="5"?>
+<?asciidoc-numbered maxdepth="6"?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="nl">
+<info>
+<title><inlinemediaobject>
+<imageobject>
+<imagedata fileref="../images/DIV-it-logo.png"/>
+</imageobject>
+<textobject><phrase>DIV it logo</phrase></textobject>
+</inlinemediaobject>Standaard voor digitale inkomensverklaring</title>
+<date>maart 2025</date>
+<author>
+<personname>
+<firstname>Aedes</firstname>
+<surname>Datastandaarden</surname>
+</personname>
+</author>
+<authorinitials>AD</authorinitials>
+<revhistory>
+<revision>
+<revnumber>x.y.z</revnumber>
+<date>maart 2025</date>
+<authorinitials>AD</authorinitials>
+</revision>
+</revhistory>
+</info>
+<simpara><?asciidoc-pagebreak?></simpara>
+<section xml:id="_ondersteuning_door_aedes">
+<title>Ondersteuning door Aedes</title>
+<simpara>Welkom! We zijn ontzettend blij dat het vanaf nu mogelijk is om gebruik te maken van de digitale procedure voor het delen van gegevens voor de inschrijving en de inkomenstoets. Dit zal het aanleveren van gegevens voor de inkomenstoets sneller, makkelijker en betrouwbaarder maken. Voor jullie, maar ook voor woningzoekenden.</simpara>
+<simpara>Wij staan voor een gestandaardiseerde en zorgvuldige implementatie conform de sectorstandaard DIV-it. Deze implementatie vereist een heel aantal stappen, die wij nauwgezet ondersteunen door middel van deze website. Onze ondersteuning bestaat uit de routekaart, achterliggende documentatie en een aantal ondersteunende sessies.</simpara>
+<simpara>Voor vragen zijn wij bereikbaar tijdens de tweewekelijkse Q&amp;A&#8217;s en via <link xl:href="mailto:div@aedes.nl">div@aedes.nl</link>.</simpara>
+<simpara><?asciidoc-hr?></simpara>
+<section xml:id="_ondersteuning">
+<title>Ondersteuning</title>
+
+</section>
+<section xml:id="_known_issues_doorontwikkeling">
+<title>Known issues &amp; doorontwikkeling</title>
+<section xml:id="_route_c_aanmelden_bij_de_rvig">
+<title>Route C - Aanmelden bij de RvIG</title>
+<simpara>Update 28 februari 2025:</simpara>
+<simpara>Wij hebben geconstateerd dat, ondanks de inspanningen en goede intenties, het ministerie van VRO en de RvIG op dit moment nog geen concreet perspectief kunnen bieden op een oplossing die het mogelijk maakt dat samenwerkingsverbanden de digitale inkomensverklaring kunnen implementeren. VRO en de RvIG blijven de mogelijkheden verkennen om het probleem op te lossen binnen de regelgeving of met aanpassingen daarvan. En wij blijven ons vanuit Aedes inzetten voor de oorspronkelijke oplossing zodat de hele sector DIV kan gebruiken zoals bedoeld.</simpara>
+<simpara>Tegelijkertijd weten we dat we al geruime tijd wachten op een oplossing vanuit de overheidspartijen en dat die tot nu toe uitblijft. Wij vinden het belangrijk dat de digitale inkomensverklaring door alle samenwerkingsverbanden gebruikt kan worden en dat de huidige onzekerheid hierover wordt weggenomen. Wij hebben daarom twee oplossingen onderzocht die ervoor zorgen dat ook informele samenwerkingsverbanden op korte termijn gebruik kunnen maken van de digitale inkomensverklaring. Wij adviseren route C samenwerkingsverbanden die gebruik willen maken van de digitale inkomensverklaring om te kiezen voor een van de twee alternatieve oplossingen.</simpara>
+<simpara>Update 17 december 2024:</simpara>
+<simpara>Samenwerkingsverbanden voor woonruimteverdeling die geen rechtspersoonlijkheid hebben (route C) kunnen momenteel geen gebruik maken van de Beheervoorziening BSN (BV BSN) en daardoor kunnen zij de digitale inkomensverklaring niet gebruiken.</simpara>
+<simpara>Dit betekent dat bestaande en nieuwe aanmeldingen door deze samenwerkingsverbanden bij het ministerie van Volkshuisvesting en Ruimtelijke Ordening (VRO) niet in behandeling worden genomen. Zie volkshuisvesting.nl. Let op: aanmelden is wel mogelijk voor woonruimteverdelers (route B) en zelfstandige woningcorporaties (route A).</simpara>
+<simpara>VRO en de RvIG zijn met elkaar in gesprek om tot een oplossing te komen. Het is echter onduidelijk of dit tijdig tot een werkbare uitkomst leidt.</simpara>
+<simpara>Daarom onderzoekt Aedes in samenwerking met de DIV-it adviesgroep welke alternatieven er mogelijk zijn voor corporaties waarop deze situatie van toepassing is.</simpara>
+<simpara>Volg je implementatieroute C, lees hier meer.</simpara>
+<simpara>Heb je vragen? Neem dan contact op met Aedes via <link xl:href="mailto:div@aedes.nl">div@aedes.nl</link></simpara>
+<simpara>Oorspronkelijke bericht 1 juli 2024:</simpara>
+<simpara>Wij hebben geconstateerd dat samenwerkingsverbanden die geen woonruimteverdeler zijn de aanvraagformulieren voor de BV BSN nog niet kunnen gebruiken. Dit betekent dat corporaties die onderdeel zijn van een samenwerkingsverband zoals bedoeld in implementatieroute C, zich nog niet aan kunnen melden bij de RvIG en daarom de digitale procedure nog niet in gebruik kunnen nemen.</simpara>
+<simpara>Wij zijn in gesprek met de RvIG over een oplossingsrichting.</simpara>
+<simpara>Verwachte oplosdatum: zo spoedig mogelijk. Volg je implementatieroute C en sta je op het punt om je aan te melden als gebruiker bij BZK, Logius en de RvIG, neem dan contact op met Aedes via <link xl:href="mailto:div@aedes.nl">div@aedes.nl</link></simpara>
+</section>
+<section xml:id="_agenda_doorontwikkeling_van_de_div_it_standaard">
+<title>Agenda doorontwikkeling van de DIV-it standaard</title>
+
+</section>
+</section>
+<section xml:id="_team_div_it">
+<title>Team DIV-it</title>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="3">
+<colspec colname="col_1" colwidth="20*"/>
+<colspec colname="col_2" colwidth="40*"/>
+<colspec colname="col_3" colwidth="40*"/>
+<thead>
+<row>
+<entry align="left" valign="top">Rol/Naam</entry>
+<entry align="left" valign="top">Contact persoon</entry>
+<entry align="left" valign="top">Verwachtingen</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara><emphasis>&lt;Rol-1&gt;</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara><emphasis>&lt;Contact-1&gt;</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara><emphasis>&lt;Verwachting-1&gt;</emphasis></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara><emphasis>&lt;Rol-2&gt;</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara><emphasis>&lt;Contact-2&gt;</emphasis></simpara></entry>
+<entry align="left" valign="top"><simpara><emphasis>&lt;Verwachting-2&gt;</emphasis></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+</section>
+<section xml:id="_gebruik_van_dit_document">
+<title>Gebruik van dit document</title>
+<simpara>Vind hier een aantal tips en tricks voor het gebruik van deze website. Heb je meer hulp nodig? Mail neem contact op of meld je aan voor een Q&amp;A-sessie.</simpara>
+<simpara>Delen met collega’s
+Om deze website of een specifieke pagina te delen met je collega’s kun je de url kopiëren of klikken op de link knop:
+Opens image in full screenOpenimage-20240327-132118.png</simpara>
+<simpara>Exporteren naar PDF
+Je kan een PDF-versie van een of meerdere pagina’s op deze website maken. Dit doe je met de volgende stappen.</simpara>
+<simpara>Exporteer de pagina:</simpara>
+<simpara>Klik op de drie puntjes (rechts bovenaan de pagina):</simpara>
+<simpara>Opens image in full screenOpen</simpara>
+<simpara>Export</simpara>
+<simpara>Export to PDF</simpara>
+</section>
+<section xml:id="_veranderingslogboek">
+<title>Veranderingslogboek</title>
+<simpara>Op deze pagina vind je het veranderingslogboek van de DIV-it website. Alle wijzigingen die worden doorgevoerd zijn hieronder in de tabel genoteerd.</simpara>
+<simpara>In de kolom “Categorie” is te zien om welk type wijziging het gaat:</simpara>
+<simpara>DIV-it x.x.x - wijzigingen als onderdeel van een nieuwe versie van de standaard.</simpara>
+<simpara>Redactioneel - wijzigingen om de website beter leesbaar te maken, zoals het herstellen van typfouten.</simpara>
+<simpara>Ondersteuning - wijzigingen die te maken hebben met de ondersteuning die Aedes aanbiedt, zoals het uploaden van een PowerPoint.</simpara>
+</section>
+<section xml:id="_div_it_versiebeheer">
+<title>DIV-it versiebeheer</title>
+<simpara>Hier staat in de tabel per overgang naar een volgende versie omschreven waarom deze nieuwe versie er is. Daarnaast vind je informatie over de backwards compatibility van de versies.</simpara>
+<simpara>Volledige omschrijvingen van de wijzigingen worden bijgehouden in het veranderingslogboek.</simpara>
+<informaltable frame="all" rowsep="1" colsep="1">
+<tgroup cols="4">
+<colspec colname="col_1" colwidth="12.5*"/>
+<colspec colname="col_2" colwidth="25*"/>
+<colspec colname="col_3" colwidth="25*"/>
+<colspec colname="col_4" colwidth="37.5*"/>
+<thead>
+<row>
+<entry align="left" valign="top">versie</entry>
+<entry align="left" valign="top">Begin datum</entry>
+<entry align="left" valign="top">Einddatum</entry>
+<entry align="left" valign="top">Belangrijkste wijziging(en)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara>1.2.2</simpara></entry>
+<entry align="left" valign="top"><simpara>01-11-2024</simpara></entry>
+<entry align="left" valign="top"><simpara>huidige standaard</simpara></entry>
+<entry align="left" valign="top"><simpara>Diverse verduidelijkingen toegevoegd na feedback van gebruikers en kleine bug fixes.</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>1.2.1</simpara></entry>
+<entry align="left" valign="top"><simpara>01-07-2024</simpara></entry>
+<entry align="left" valign="top"><simpara>01-11-2024</simpara></entry>
+<entry align="left" valign="top"><simpara>Diverse verduidelijkingen toegevoegd na feedback van gebruikers</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>1.2.0</simpara></entry>
+<entry align="left" valign="top"><simpara>16-05-2024</simpara></entry>
+<entry align="left" valign="top"><simpara>01-07-2024</simpara></entry>
+<entry align="left" valign="top"><simpara>Diverse verduidelijkingen toegevoegd na feedback van gebruikers</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>1.1.0</simpara></entry>
+<entry align="left" valign="top"><simpara>22-04-2024</simpara></entry>
+<entry align="left" valign="top"><simpara>15-05-2024</simpara></entry>
+<entry align="left" valign="top"><simpara>Uitbreiding van de standaard met informatiebeveiliging en privacy</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>1.0.1</simpara></entry>
+<entry align="left" valign="top"><simpara>02-04-2024</simpara></entry>
+<entry align="left" valign="top"><simpara>21-04-2024</simpara></entry>
+<entry align="left" valign="top"><simpara>Eerste publicatie van de standaard</simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+<simpara><?asciidoc-pagebreak?></simpara>
+</section>
+</section>
+<section xml:id="section-architecture-constraints">
+<title>Waarom is dit voor mij?</title>
+<simpara>Waarschijnlijk heb je al eens gehoord van termen als de digitale inkomensverklaring, het digitaal delen van gegevens, en de digitale inkomenstoets.</simpara>
+<simpara>Deze termen verwijzen naar de digitale procedure waarmee woningzoekenden en medebewoners gevalideerde identiteits- en inkomensgegevens delen met de woonruimteverdeler of corporatie via MijnOverheid.</simpara>
+<simpara>Het is cruciaal dat deze nieuwe digitale procedure zorgvuldig wordt uitgevoerd. Daarom heeft Aedes Datastandaarden de DIV-it-standaard ontwikkeld.</simpara>
+<simpara>Wil je hier meer over weten? Lees dan verder.</simpara>
+<section xml:id="_de_digitale_procedure_in_het_kort">
+<title>De digitale procedure in het kort</title>
+<simpara>Woningcorporaties toetsen verplicht of woningzoekenden een sociale huurwoning mogen huren op basis van het huishoudinkomen. Daarvoor gebruiken corporaties de inkomensgegevens van de woningzoekende en eventuele toekomstige medebewoners. Met de digitale inkomensverklaring kunnen woningzoekenden en medebewoners deze gegevens digitaal delen vanuit overheidsbronnen en kan de woningcorporatie deze gegevens valideren.</simpara>
+<informalexample>
+<simpara>Om tot een digitale inkomensverklaring te komen, volgen woningzoekenden en medebewoners een digitale procedure waarmee zij gevalideerde identiteits- en inkomensgegevens delen met de woonruimteverdeler of corporatie via MijnOverheid. De digitale inkomensverklaring wordt opgesteld in het woonruimteverdeelsysteem door gegevens uit verschillende bronnen te combineren.</simpara>
+</informalexample>
+<simpara>De woningcorporatie krijgt met de digitale procedure beschikking over:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Een BSN, een gevalideerde geslachtsnaam en geboortedatum. Daarmee kan vastgesteld worden dat de persoon voor wie het inkomen digitaal wordt verstrekt, ook de persoon is die al een bepaalde periode ingeschreven staat. (Een afgeleid van) het BSN mag ook alleen hiervoor worden opgeslagen.</simpara>
+</listitem>
+<listitem>
+<simpara>Een gevalideerd inkomensgegeven. Zo kan met zekerheid vastgesteld worden dat het inkomen ook daadwerkelijk bij de woningzoekende hoort, en een betrouwbare bron heeft (Belastingdienst).</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Samen worden deze gegevens gebruikt zodat het woonruimteverdeelsysteem een digitale inkomensverklaring kan opstellen, die gebruikt kan worden voor de inkomenstoets.</simpara>
+<section xml:id="_voordelen_van_de_digitale_procedure">
+<title>Voordelen van de digitale procedure</title>
+<simpara>Voor woningzoekenden vergemakkelijkt de digitale procedure het toewijzingsproces. Zij kunnen eenvoudig, snel en veilig hun gegevens delen met woningcorporaties. Het is niet langer nodig om allerlei formulieren te downloaden, printen en versturen. Het is niet verplicht om de gegevens digitaal aan te leveren, dus de woningzoekende behoudt de vrijheid om er geen gebruik van te maken en mag te allen tijde de instemming voor het gebruik van de gegevens intrekken. Gedurende de pilot waren woningzoekenden erg positief, unaniem gaven ze de voorkeur aan de nieuwe werkwijze vanwege het gebruiksgemak.</simpara>
+<simpara>De digitale procedure levert ook de woningcorporatie tijdswinst op: het vermindert de administratieve lasten van woningcorporaties en woonruimteverdelers.</simpara>
+<informalexample>
+<simpara><emphasis role="strong">Kostenbesparing</emphasis></simpara>
+<simpara>Uit onderzoek van
+<link xl:href="https://www.volkshuisvestingnederland.nl/binaries/volkshuisvestingnederland/documenten/rapporten/2022/08/30/eindrapport-regeldruk-wijziging-woningwet-digitale-inkomenstoets/Eindrapport-regeldruk-digitale-inkomenstoets.pdf"">Sira Consulting</link>
+blijkt dat na aftrek van de kosten die de invoering van de digitale inkomensverklaring met zich mee brengt, de sector jaarlijks zo’n 9.6 miljoen euro kan besparen.</simpara>
+</informalexample>
+<simpara>En op deze manier ontvangen woningcorporaties betrouwbare gegevens, rechtstreeks van de overheid, waardoor de kans op toewijzingsfraude kleiner wordt. Ook worden de gegevens die de woningzoekende deelt beter beschermd: er worden minder gegevens gedeeld, via een beveiligde verbinding met de overheid.</simpara>
+</section>
+<section xml:id="_wat_is_nodig_om_de_digitale_procedure_te_gaan_gebruiken">
+<title>Wat is nodig om de digitale procedure te gaan gebruiken?</title>
+<simpara>Woningcorporaties en woonruimteverdelers moeten een aantal stappen doorlopen voordat zij live kunnen gaan met het digitaal delen van inkomensgegevens. Hierbij gaat het om organisatorische, juridische en technische aanpassingen in de eigen processen en systemen. Zoals proceswijzigingen, afspraken met de accountant, het aanpassen van informatiebeveiligings- en privacydocumentatie en het aansluiten op de digitale infrastructuur van de overheid.</simpara>
+<simpara>Het is belangrijk dat de uitrol en voorbereiding daarop zorgvuldig gebeuren. Daarom heeft Aedes Datastandaarden de DIV-it-standaard ontwikkeld. Aedes Datastandaarden ondersteunt woningcorporaties, woonruimteverdelers en samenwerkingsverbanden met de DIV-it-standaard bij het implementeren van de digitale procedure. DIV-it schrijft een zorgvuldige en gestandaardiseerde wijze voor om de digitale procedure in gebruik te nemen. Om mogelijke risico’s te mitigeren, adviseren wij om om de digitale inkomensverklaring conform DIV-it te implementeren.</simpara>
+</section>
+</section>
+</section>
+<section xml:id="_de_div_it_standaard">
+<title>De DIV-it standaard</title>
+<simpara>DIV-it is de standaard om de digitale procedure zorgvuldig te implementeren. DIV-it is een product van Aedes Datastandaarden. DIV-it 1.2.2 is gepubliceerd op 1 november 2024.</simpara>
+<section xml:id="_samen_kom_je_verder_dan_alleen">
+<title>Samen kom je verder dan alleen</title>
+<simpara>Alle corporaties en woonruimteverdelers die gebruik willen maken van de identiteits- en inkomensgegevens die via MijnOverheid kunnen worden gedeeld, moeten voldoen aan de eisen die het ministerie stelt.</simpara>
+<simpara>De DIV-it-standaard gaat verder dan dat. Het heeft voordelen om de DIV-it-standaard te gebruiken, niet alleen individueel maar ook op sectorniveau.</simpara>
+<simpara>DIV-it is een sectorstandaard. Een sectorstandaard heeft een aantal voordelen. Dankzij interoperabiliteit wordt samenwerken makkelijker en voorkomen we afhankelijkheid van specifieke leveranciers. De positie van corporaties richting overheidspartijen en softwareleveranciers wordt hiermee sterker.</simpara>
+<simpara>Het schaalvoordeel van het ontwikkelen van een sectorstandaard is dat we meer expertise en kennis bij elkaar brengen en daardoor hogere kwaliteit kunnen leveren. We bouwen een community rond de standaard en dit creëert kansen om elkaar onderling te helpen. Daarnaast bouwen we aan vertrouwen door een gezamenlijk ontwikkelproces en grootschalig gebruik.</simpara>
+<simpara>Bij het ontwikkelen van de DIV-it-standaard hebben we sterk gelet op zorgvuldigheid richting woningzoekenden en medebewoners, efficiënt gebruik van middelen (tijd en geld), beheersing van risico’s en een duurzame, stabiele implementatie. De onderdelen van de standaard zijn onderling samenhangend.</simpara>
+<simpara>Gebruik van de DIV-it-standaard is niet verplicht. De DIV-it-standaard is de basis voor de ondersteuning door Aedes. Aedes kan alleen vragen beantwoorden over de inhoud van de standaard, en niet over afwijkende situaties.</simpara>
+</section>
+<section xml:id="_versies">
+<title>Versies</title>
+<simpara>DIV-it wordt actief beheerd en doorontwikkeld. Voorgaande versies en wijzigingen zijn te vinden op de pagina DIV-it versiebeheer.</simpara>
+<section xml:id="_waneeer_voldoe_ik_aan_de_dit_it_1_2_2">
+<title>Waneeer voldoe ik aan de DIT-it 1.2.2?</title>
+<simpara>Een corporatie of woonruimteverdeler voldoet aan DIV-it 1.2.2 als:</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>alle specificaties van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties worden gevolgd;</simpara>
+</listitem>
+</orderedlist>
+<example>
+<title>Specificaties van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties</title>
+<simpara>Specificaties van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties</simpara>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://wetten.overheid.nl/jci1.3:c:BWBR0005181&amp;hoofdstuk=IV&amp;afdeling=3&amp;paragraaf=2&amp;artikel=46&amp;z=2024-01-01&amp;g=2024-01-01">Artikel
+46 Woningwet</link> en daarop gebaseerde regelgeving</simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.volkshuisvestingnederland.nl/onderwerpen/digitaal-delen-van-inkomensgegevens/documenten/publicaties/2024/01/12/aanvraagformulier-aanvraag-gebruiker">Aanvraagformulier
+aanwijzing gebruiker digitalisering inkomensgegevens (versie 15 januari
+2024)</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.logius.nl/domeinen/infrastructuur/diginetwerk/documentatie">Aansluiten
+op Diginetwerk (raadpleegdatum 18 juni 2024)</link></simpara>
+</listitem>
+<listitem>
+<simpara>Aansluiten koppelvlak Beheervoorziening BSN</simpara>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://www.rvig.nl/aansluitprocedure-bvbsn">Aansluitprocedure BV BSN
+(raadpleegdatum 18 juni 2024)</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.volkshuisvestingnederland.nl/onderwerpen/digitaal-delen-van-inkomensgegevens/documenten/publicaties/2024/01/12/aanvraagformulier-bv-bsn-woonruimteverdeler">Aanvraagformulier
+BV BSN Woonruimteverdeler (versie 4 april 2024)</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.volkshuisvestingnederland.nl/onderwerpen/digitaal-delen-van-inkomensgegevens/documenten/publicaties/2024/01/12/aanvraagformulier-bv-bsn-woningcorporatie">Aanvraagformulier
+BV BSN Woningcorporatie (versie 4 april 2024)</link></simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara>Aansluiten koppelvlak MijnOverheid en DvmG</simpara>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://www.logius.nl/domeinen/interactie/mijnoverheid/documentatie/voorwaarden-productieomgeving">Aansluitvoorwaarden
+MijnOverheid (versie 12 juni 2018)</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.logius.nl/domeinen/interactie/mijnoverheid/documentatie/api-documentatie-delen-van-mijngegevens">Koppelvlakspecificaties
+voor het koppelvlak MijnOverheid en Delen van MijnGegevens
+(raadpleegdatum 16 mei 2024)</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.logius.nl/onze-organisatie/zakendoen-met-logius/voorwaarden/algemene-voorwaarden-logius">Algemene
+voorwaarden Logius (versie 12 juni 2018)</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.volkshuisvestingnederland.nl/onderwerpen/digitaal-delen-van-inkomensgegevens/documenten/publicaties/2024/01/12/formulier-logius-dvmg">Aanvraagformulier
+MijnOverheid Delen van MijnGegevens (versie 15 januari 2024)</link></simpara>
+</listitem>
+</itemizedlist>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.volkshuisvestingnederland.nl/onderwerpen/digitaal-delen-van-inkomensgegevens/documenten/publicaties/2024/01/12/voorwaarden-voor-gebruik-versie-1.1">Gebruiksvoorwaarden
+voor Digitaal delen van het inkomensgegeven (versie 1.1&#44; 28 maart 2024)</link></simpara>
+</listitem>
+</itemizedlist>
+</example>
+<orderedlist numeration="arabic" startingnumber="2">
+<listitem>
+<simpara>de vier beschreven processen worden aangeboden op de beschreven wijze; daarbij is integratie met andere processen die losstaan van de digitale procedure denkbaar (bijvoorbeeld het vragen van aanvullende gegevens bij de inschrijving), de standaard doet echter geen uitspraken over die andere processen;</simpara>
+</listitem>
+<listitem>
+<simpara>informatie uit Delen van MijnGegevens of de BV BSN niet op een andere manier wordt gebruikt dan in de vier beschreven processen is uitgewerkt: de informatie wordt niet voor andere doelen of in andere processen gebruikt, er wordt geen andere inhoudelijke informatie uit de antwoordberichten verwerkt dan is benoemd, de informatie wordt niet langer bewaard dan nodig voor de uitvoering van of controle op het proces;</simpara>
+</listitem>
+<listitem>
+<simpara>bij uitval binnen een van de beschreven processen de digitale procedure wordt gestaakt, bijvoorbeeld wanneer een van de beschreven uitvalsituaties zich voordoet;</simpara>
+</listitem>
+<listitem>
+<simpara>het BSN alleen in gehashte vorm wordt opgeslagen; verwerking van het zuivere BSN mag alleen plaatsvinden binnen één beschreven proces en wanneer en voor zover dat strikt noodzakelijk is voor de uitvoering van dat beschreven proces; bij uitval binnen een van de beschreven processen wordt het BSN altijd verwijderd;</simpara>
+</listitem>
+<listitem>
+<simpara>de vraag om instemming en de toelichting op de digitale procedure de minimaal vereiste elementen bevat;</simpara>
+</listitem>
+<listitem>
+<simpara>het intrekken van instemming op de beschreven wijze wordt verwerkt;</simpara>
+</listitem>
+<listitem>
+<simpara>met de softwareleverancier is geborgd dat voor livegang een passende ISAE-verklaring een aanwezig is;</simpara>
+</listitem>
+<listitem>
+<simpara>alle maatregelen met betrekking tot de AVG-rolverdeling, privacydocumenten, beveiligingsmaatregelen, bewaartermijnen en de grondslagen zijn ingericht zoals beschreven onder Informatiebeveiliging en privacy;</simpara>
+</listitem>
+<listitem>
+<simpara>een data protection impact assessment (DPIA) is uitgevoerd met behulp van de model-DPIA</simpara>
+</listitem>
+</orderedlist>
+<simpara>Corporaties, woonruimteverdelers en samenwerkingsverbanden kunnen implementatie van een deel van de standaard uitbesteden aan andere partijen (zoals softwareleveranciers) als zij dat doen conform de standaard.</simpara>
+</section>
+</section>
+</section>
+<section xml:id="_wanneer_is_de_div_it_van_toepassing">
+<title>Wanneer is de DIV-it van toepassing</title>
+<simpara>De DIV-it standaard is ontwikkeld voor een aantal situaties waarin woonruimteverdelers of corporaties de digitale procedure aan mogen bieden.</simpara>
+<simpara>Als je als woonruimteverdeler of corporatie op eigen verzoek bent aangewezen als gebruiker door het ministerie van BZK, dan moet je de digitale procedure aan iedereen die aan de onderstaande criteria voldoet aanbieden. En je mag het ook alleen aan degenen aanbieden die aan de criteria voldoen.</simpara>
+<itemizedlist>
+<listitem>
+<simpara><emphasis role="strong">Sociale verhuur</emphasis>: de digitale procedure mag alleen worden gebruikt voor de uitvoering van de inkomenstoets die is voorgeschreven in de Woningwet en daarmee alleen voor woningzoekenden die sociale huurwoningen willen huren.</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Uitgezonderde groepen</emphasis>: het inkomensgegeven mag alleen digitaal gedeeld worden door woningzoekenden die niet in een van de uitgezonderde groepen voor de inkomenstoets vallen en die niet in een van de groepen vallen die uitgezonderd zijn op de verplichte toetsing aan de hand van belastingbescheiden. Zie voor deze groepen: Bijlage 4 Besluit toegelaten instellingen volkshuisvesting 2015.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Daarnaast stelt de wet als voorwaarde dat <emphasis role="strong">instemming</emphasis> wordt verkregen: de woonruimteverdeler of corporatie moet de woningzoekende en medebewoners verzoeken om in te stemmen met de digitale procedure. Daarbij moet de woonruimteverdeler of corporatie informatie over de procedure en de daarbij behorende gegevensverwerkingen delen met de woningzoekende zodat deze een afgewogen beslissing kan nemen of hij wel of niet zijn gegevens digitaal wil delen. Als de woningzoekende instemt, is de woonruimteverdeler of corporatie verplicht om de digitale procedure toe te passen.</simpara>
+<simpara>De DIV-it-standaard is ontwikkeld voor de volgende situaties waarin gegevens worden gedeeld:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Het BSN wordt eenmalig opgevraagd nadat de woningzoekende instemt met de digitale procedure (bij inschrijving of op een later moment, ten behoeve van het verrijken van de inschrijving). Op dat moment vindt ook de validatie van de geslachtsnaam en geboortedatum plaats.</simpara>
+</listitem>
+<listitem>
+<simpara>De combinatie BSN en inkomensgegeven van de woningzoekende en toekomstige medebewoners worden eenmalig opgevraagd nadat de woningzoekende een woning toegewezen heeft gekregen.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>De DIV-it-standaard gaat ervan uit dat de woningzoekende ten minste 18 jaar is bij inschrijven.</simpara>
+</section>
+<section xml:id="_kosten">
+<title>Kosten</title>
+<simpara>Er zijn kosten van toepassing op de implementatie en het gebruik van de digitale procedure. Dit zijn kosten voor het gebruik van MijnOverheid en kosten die de softwareleverancier of dienstenleverancier doorbelast.</simpara>
+<simpara>Aan het gebruik van de voorziening van MijnOverheid zijn kosten verbonden. Meer informatie over deze kosten wordt gedeeld op de pagina <link xl:href="https://www.volkshuisvestingnederland.nl/onderwerpen/digitaal-delen-van-inkomensgegevens/aanvraagprocedure-digitaal-delen-inkomensgegevens-voor-woningcorporaties-en-woonruimteverdelers">kosten en randvoorwaarden gebruik voorzieningen</link>
+van het ministerie van BZK. Waarbij het volgende bedoeld wordt met:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Totaal van aantal DigiD inloggen voor deze toepassing in de sector = elke geslaagde inlogpoging in DigiD door de woningzoekende ongeacht of er vervolgens gegevens worden gedeeld.</simpara>
+</listitem>
+<listitem>
+<simpara>Totaal aantal geslaagde gegevensdelingen = aantal geslaagde requests, dus daadwerkelijke gegevensdeling.</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Daarnaast kan de softwareleverancier of dienstenleverancier kosten doorberekenen die hij voor de woonruimteverdeler of corporatie maakt voor de implementatie of het gebruik van de digitale inkomensverklaring.</simpara>
+<simpara>Er zijn geen kosten verbonden aan het gebruik van de Beheervoorziening BSN.</simpara>
+<simpara><?asciidoc-pagebreak?></simpara>
+</section>
+<section xml:id="section-context-and-scope">
+<title>Routekaart</title>
+<simpara>Op de routekaart staan alle belangrijke stappen die jouw organisatie zal nemen om de digitale inkomensverklaring te implementeren.</simpara>
+<simpara>De implementatie bestaat uit een aantal delen:</simpara>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>Voorbereiding: Alle stappen die je neemt om je voor te bereiden op de implementatie.</simpara>
+</listitem>
+<listitem>
+<simpara>Het nieuwe proces toepassen: Alle stappen om het nieuwe proces toe te passen.</simpara>
+</listitem>
+<listitem>
+<simpara>Aanmelden bij BZK: Om toegewezen te worden als gebruiker van de digitale inkomensverklaring.</simpara>
+</listitem>
+<listitem>
+<simpara>Aanmelden bij Logius en RvIG: Bij Logius om gebruik te maken van de koppeling “Delen van Mijn Gegevens” en bij de RvIG om gebruik te maken van de Beheervoorziening BSN (BV BSN).</simpara>
+</listitem>
+<listitem>
+<simpara>Livegang, gebruik en beheer: Wanneer ben je klaar voor livegang? En wat volgt daarna?</simpara>
+</listitem>
+</orderedlist>
+<simpara>Daarnaast zijn er een aantal “check-in”-momenten, wanneer het DIV-it-team graag via een formulier van je hoort hoe ver je bent met de implementatie van de digitale inkomensverklaring. Je zal deze check-in momenten vanzelf tegenkomen.</simpara>
+<simpara><emphasis role="strong">De routekaart</emphasis>
+<inlinemediaobject>
+<imageobject>
+<imagedata fileref="../images/Routekaart_V1.drawio.png"/>
+</imageobject>
+<textobject><phrase>routekaart</phrase></textobject>
+</inlinemediaobject></simpara>
+<simpara><?asciidoc-pagebreak?></simpara>
+<section xml:id="_voorbereiding">
+<title>Voorbereiding</title>
+<simpara>In dit deel ga je de organisatie voorbereiden op de implementatie van de digitale inkomensverklaring. Voor de voorbereiding bieden we adviezen over de volgende onderdelen:</simpara>
+<section xml:id="_de_implementatieroute">
+<title>De implementatieroute</title>
+<simpara>De situatie van jouw organisatie is bepalend voor de route die je volgt bij het implementeren van de digitale inkomensverklaring. Gebruik de beslisboom om te achterhalen welke route voor jou van toepassing is.</simpara>
+<simpara>In de praktijk komen er verschillende samenwerkingsvarianten tussen corporaties voor bij het woonruimteverdeelproces. Dit kan leiden tot verschillende rollen en bijbehorende acties in de uitrol van de digitale inkomensverklaring. De onderstaande beslisboom helpt om te bepalen welke acties uitgevoerd moeten worden en door wie.</simpara>
+<simpara><inlinemediaobject>
+<imageobject>
+<imagedata fileref="../images/Routekaart_BeslisboomV1.drawio.png"/>
+</imageobject>
+<textobject><phrase>Beslisboom</phrase></textobject>
+</inlinemediaobject></simpara>
+<informalexample>
+<simpara><emphasis role="strong">*Samenwerken voor de woonruimteverdeling</emphasis></simpara>
+<simpara>Veel woningcorporaties werken samen in het proces van het toewijzen van sociale huurwoningen. Zij werken dan samen voor (een deel van de) taken met betrekking tot het registreren van de inschrijving en de inschrijvingsduur van woningzoekenden, het tonen van het woningaanbod van de deelnemende woningcorporaties en het contact met woningzoekenden tijdens een groot deel van het proces, tot aan het moment dat de woningzoekende op een woning reageert. Als er sprake is van samenwerking voor de woonruimteverdeling, moeten de samenwerkende corporaties ook samen de digitale procedure in gebruik gaan nemen. Hoe je dit precies doet, is afhankelijk van de implementatieroute.</simpara>
+</informalexample>
+<informalexample>
+<simpara><emphasis role="strong">**Woonruimteverdeler conform de woningwet?</emphasis></simpara>
+<simpara>Om te bepalen of de eventuele samenwerking een woonruimteverdeler is zoals bedoeld in de Woningwet artikel 1 kun je de volgende praktische toets gebruiken</simpara>
+<simpara><emphasis role="strong">Let op</emphasis>: de softwareleverancier of dienstenleverancier is nooit een woonruimteverdeler zoals de wet dit bedoelt</simpara>
+<simpara>Is het samenwerkingsverband een rechtspersoon waarmee de toegelaten instelling een verbinding heeft zoals bedoeld in artikel 21 eerste lid Woningwet?</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Nee → Het samenwerkingsverband is geen woonruimteverdeler zoals de wet dit bedoelt.</simpara>
+</listitem>
+<listitem>
+<simpara>Ja → volgende vraag</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Is het samenwerkingsverband een naamloze vennootschap (NV)?</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Ja → Het samenwerkingsverband is geen woonruimteverdeler zoals de wet dit bedoelt.</simpara>
+</listitem>
+<listitem>
+<simpara>Nee → volgende vraag</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Is het samenwerkingsverband een besloten vennootschap (BV) met beperkte aansprakelijkheid?</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Ja → Het samenwerkingsverband is geen woonruimteverdeler zoals de wet dit bedoelt.</simpara>
+</listitem>
+<listitem>
+<simpara>Nee → volgende vraag</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Verricht het samenwerkingsverband voor de toegelaten instellingen werkzaamheden ten behoeve van het registreren van inschrijvingen en het verdelen van woongelegenheden<footnote><simpara>Veel woningcorporaties werken in het proces van toewijzen van sociale huurwoningen met woonruimteverdelers. Deze partijen verrichten voor de woningcorporatie (of: voor meerdere woningcorporaties in de regio) werkzaamheden voor de woningcorporatie ten behoeve van het registreren van de inschrijving en de inschrijvingsduur van woningzoekenden, het tonen van het woningaanbod van de deelnemende woningcorporaties, en het contact met woningzoekenden tijdens een groot deel van het proces, tot aan het moment dat woningzoekende op een woning reageert. Er zijn ook woningcorporaties die niet werken met een woonruimteverdeler, en die al deze taken zelf uitvoeren.</simpara></footnote>?</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Ja → <emphasis role="strong">Het samenwerkingsverband is een woonruimteverdeler zoals de wet dit bedoelt.</emphasis></simpara>
+</listitem>
+<listitem>
+<simpara>Nee → Het samenwerkingsverband is geen woonruimteverdeler zoals de wet dit bedoelt.</simpara>
+</listitem>
+</itemizedlist>
+</informalexample>
+<section xml:id="_verantwoordelijkheden_per_route">
+<title>Verantwoordelijkheden per route</title>
+<simpara>Nu je weet welke route op jouw organisatie van toepassing is, lees je hieronder welke verantwoordelijkheden daaraan verbonden zijn. In andere stappen van de uitrol zal waar nodig onderscheid gemaakt worden tussen de drie routes A, B en C. Dit zal dan altijd expliciet aangegeven worden.</simpara>
+<simpara>De op jouw organisatie van toepassing zijnde route is…</simpara>
+<itemizedlist>
+<listitem>
+<simpara><emphasis role="strong">Route A (zelfstandige corporatie)</emphasis>: De organisatie is een woningcorporatie die zelfstandig de woonruimteverdeling uitvoert. Lees meer over de rolverdeling en verantwoordelijkheden.</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Route B (woonruimteverdeler)</emphasis>: De organisatie is een woonruimteverdeler conform de woningwet. Lees meer over de rolverdeling en verantwoordelijkheden.</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Route C (samenwerkingsverband)</emphasis>: De organisatie is een samenwerkingsverband van woningcorporaties die samenwerken voor woonruimteverdeling, maar geen woonruimteverdeler conform de woningwet. Lees meer over de rolverdeling en verantwoordelijkheden.</simpara>
+</listitem>
+<listitem>
+<simpara><emphasis role="strong">Overig</emphasis>: De organisatie kan geen gebruik maken van de digitale procedure.</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+<section xml:id="_advies_projectteam">
+<title>Advies projectteam</title>
+
+</section>
+<section xml:id="_softwareleverancier">
+<title>Softwareleverancier</title>
+<simpara>Wanneer je aan de slag gaat met de voorbereiding (deel 1) van de DIV-it implementatie vul dan dit formulier in. Je helpt ons (team DIV-it) hier ontzettend mee, dan kunnen we namelijk goed inschatten welke ondersteuning nodig is.</simpara>
+<simpara><?asciidoc-pagebreak?></simpara>
+</section>
+</section>
+<section xml:id="_het_nieuwe_process_toepassen">
+<title>Het nieuwe process toepassen</title>
+<simpara>Nu je goed voorbereid bent, kun je aan de slag met het toepassen van de digitale inkomensverklaring. Dit deel van de implementatie bestaat uit 4 onderdelen waar je gelijktijdig mee aan de slag kunt gaan.</simpara>
+<section xml:id="_het_nieuwe_proces">
+<title>Het nieuwe proces</title>
+<simpara>Het proces voor het delen van de inkomensgegevens zal met de implementatie van de digitale inkomensverklaring wijzigen. Op deze pagina’s wordt de nieuwe digitale procedure omschreven.</simpara>
+<simpara>In DIV-it definiëren we vier processen. De processen zijn functioneel en op hoofdlijnen beschreven. Daarbij wordt ingegaan op de samenhang tussen de woningzoekende of medebewoner, het woonruimteverdeelsysteem, het verhuursysteem en de systemen van de overheid.</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Delen van BSN woningzoekende bij nieuwe inschrijving</simpara>
+</listitem>
+<listitem>
+<simpara>Delen van BSN woningzoekende bij bestaande inschrijving</simpara>
+</listitem>
+<listitem>
+<simpara>Delen van BSN en inkomensgegevens woningzoekde bij toewijzing</simpara>
+</listitem>
+<listitem>
+<simpara>Delen van BSN en inkomensgegevevens medebewoner bij toewijzing</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Ook hebben we drie onderwerpen nader uitgewerkt:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>wat de woonruimteverdeler of corporatie moet doen in uitvalsituaties waarin de digitale procedure niet gebruikt kan worden;</simpara>
+</listitem>
+<listitem>
+<simpara>het vragen van instemming met de digitale procedure;</simpara>
+</listitem>
+<listitem>
+<simpara>het intrekken van instemming met de digitale procedure;</simpara>
+</listitem>
+<listitem>
+<simpara>de relatie tussen de gegevens van MijnOverheid en de gegevens benodigd voor de inkomenstoets.</simpara>
+</listitem>
+</itemizedlist>
+<section xml:id="_delen_van_bsn_woningzoekende_bij_nieuwe_inschrijving">
+<title>Delen van BSN woningzoekende bij nieuwe inschrijving</title>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="../images/diag-plantuml-md5-7408fe01534f6d5ea4b3cb0cbc61761f.png"/>
+</imageobject>
+<textobject><phrase>Diagram</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara><emphasis role="strong">Stap 1. Inschrijven</emphasis></simpara>
+<simpara>De woningzoekende schrijft zich in bij de woonruimteverdeler of corporatie. Gegevens uit het inschrijfformulier die van belang zijn voor de digitale procedure zijn:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Geslachtsnaam</simpara>
+</listitem>
+<listitem>
+<simpara>Geboortedatum</simpara>
+</listitem>
+<listitem>
+<simpara>Geslachtsaanduiding (M/V/X. De geslachtsaanduiding moet corresponderen met de registratie in het paspoort)</simpara>
+</listitem>
+<listitem>
+<simpara>Huisnummer</simpara>
+</listitem>
+<listitem>
+<simpara>Postcode</simpara>
+</listitem>
+</itemizedlist>
+<simpara>Deze gegevens worden opgeslagen in het woonruimteverdeelsysteem.</simpara>
+<simpara><emphasis role="strong">Stap 2-4. Instemming met digitale procedure</emphasis></simpara>
+<simpara>De woonruimteverdeler of corporatie verstrekt aan de woningzoekende informatie over het hoe en waarom van het digitaal verstrekken van de gegevens en de daarbij behorende gegevensverwerkingen (zie ook: Vragen van instemming en Intrekken van instemming). De woonruimteverdeler of woningcorporatie vraagt of de woningzoekende instemt met de digitale procedure om het BSN te delen. Als de woningzoekende instemt met de digitale procedure roept het woonruimteverdeelsysteem MijnOverheid aan. Via MijnOverheid kan de woningzoekende het BSN delen.</simpara>
+<simpara><emphasis role="strong">Stap 5-6. Inloggen met DigiD</emphasis></simpara>
+<simpara>De woningzoekende logt met DigiD in op de MijnOverheid-omgeving.</simpara>
+<simpara><emphasis role="strong">Stap 7-9. Delen van BSN</emphasis></simpara>
+<simpara>De woningzoekende krijgt het BSN te zien in de MijnOverheid-omgeving en wordt gevraagd of hij deze wil verstrekken aan de woonruimteverdeler of corporatie. Als de woningzoekende het BSN wil delen wordt dit verstrekt aan de woonruimteverdeler of corporatie via het koppelvlak Delen van mijn Gegevens.</simpara>
+<simpara><emphasis role="strong">Stappen 10 -17. Validatie BV BSN</emphasis></simpara>
+<simpara>Op basis van het BSN raadpleegt het woonruimteverdeelsysteem op de achtergrond de Beheervoorziening BSN (BV BSN) met de verificatievraag ‘Toetsen van de combinatie BSN en identificerende gegevens’. De woonruimteverdeler of corporatie kan zo met de BV BSN controleren of de set van identificerende gegevens die de woningzoekende heeft opgegeven overeenkomt met de set van identificerende gegevens in de Basisregistratie Personen (BRP, een registratie van de overheid) behorende bij een BSN. De woonruimteverdeler of corporatie gebruikt daarvoor eerst zoekpad 2 en als validatie via zoekpad 2 niet lukt, zoekpad 1. Het proces dat volgt op de beide zoekpaden wordt hieronder uitgelegd.</simpara>
+<simpara>Let op: bij het bevragen van de BV BSN wordt de geslachtsaanduiding die de woningzoekende doorgeeft in stap 1. Inschrijven gebruikt. De geslachtsaanduiding X in het paspoort, dus zoals de woningzoekende doorgeeft, staat in de BRP geregistreerd als een O (onbekend). Daarom moet de geregistreerde geslachtsaanduiding X in het woonruimteverdeelsysteem vertaald worden naar een O voordat de BV BSN bevraagd wordt.</simpara>
+<simpara><emphasis role="strong">Stap 10 - 12 en stap 17. Zoekpad 2</emphasis></simpara>
+<simpara>In de BV BSN worden [BSN, geslachtsnaam, geboortedatum, geslachtsaanduiding] van de woningzoekende gecontroleerd (zoekpad 2). Als de validatie lukt via zoekpad 2, ontvangt het woonruimteverdeelsysteem het BSN en de gevalideerde geslachtsnaam en geboortedatum van de woningzoekende. De woonruimteverdeler of corporatie toont de gevalideerde geslachtsnaam en geboortedatum aan de woningzoekende ter controle. Als de woningzoekende akkoord gaat met het gebruik van de gegevens ten behoeve van de inschrijving, verstuurt hij deze instemming aan het woonruimteverdeelsysteem (stap 17).</simpara>
+<simpara><emphasis role="strong">Stap 13 - 17. Zoekpad 1</emphasis></simpara>
+<simpara>Als de validatie via zoekpad 2 mislukt worden [BSN, geboortedatum, geslachtsaanduiding, huisnummer, postcode] van de woningzoekende gecontroleerd (zoekpad 1). Als de validatie lukt via zoekpad 1, ontvangt het woonruimteverdeelsysteem het BSN en de gevalideerde geslachtsnaam en geboortedatum van de woningzoekende. De woonruimteverdeler of corporatie mag in dit geval de geslachtsnaam in het antwoordbericht van de BV BSN gebruiken om de geslachtsnaam die de woningzoekende heeft opgegeven, in de eigen administratie te corrigeren.</simpara>
+<simpara>De woonruimteverdeler of corporatie toont de gevalideerde gecorrigeerde geslachtsnaam en geboortedatum aan de woningzoekende ter controle en vraag of hij akkoord is met het corrigeren van geslachtsnaam en de inschrijving wil bevestigen. Als de woningzoekende akkoord gaat met het gebruik van de gegevens ten behoeve van de inschrijving, verstuurt hij deze instemming aan het woonruimteverdeelsysteem (stap 17).</simpara>
+<simpara><emphasis role="strong">Stap 18. Hashen van het BSN en opslaan van gevalideerde gegevens</emphasis></simpara>
+<simpara>De woonruimteverdeler of woningcorporatie gebruikt een technische oplossing om het BSN te beveiligen zodat het opgeslagen BSN niet direct herleidbaar is tot het BSN van de desbetreffende persoon. Het BSN wordt ook niet getoond aan gebruikers van het woonruimteverdeelsysteem.</simpara>
+<simpara>Het BSN wordt in het woonruimteverdeelsysteem gehasht opgeslagen zodat deze niet gemakkelijk te herleiden is naar de betreffende persoon.</simpara>
+<simpara>In het woonruimteverdeelsysteem worden, naast het gehashte BSN, de identiteitsgegevens (geslachtsnaam, geboortedatum) die verkregen zijn in stap 1 en gevalideerd zijn in de stappen 10-17 bewaard. De andere gegevens die gebruikt zijn voor de digitale procedure (geslachtsaanduiding, huisnummer, postcode) moeten verwijderd worden uit het woonruimteverdeelsysteem.</simpara>
+</section>
+<section xml:id="_delen_van_bsn_woningzoekende_bij_bestaande_inschrijving">
+<title>Delen van BSN woningzoekende bij bestaande inschrijving</title>
+<informalfigure>
+<mediaobject>
+<imageobject>
+<imagedata fileref="../images/diag-plantuml-md5-a995d3b9658e03aff5e361e9df5745d0.png"/>
+</imageobject>
+<textobject><phrase>Diagram</phrase></textobject>
+</mediaobject>
+</informalfigure>
+<simpara><emphasis role="strong">Stap 1-3. Instemming met digitale procedure</emphasis></simpara>
+<simpara>De woonruimteverdeler of corporatie verstrekt aan de woningzoekende informatie over het hoe en waarom van het digitaal verstrekken van de gegevens en de daarbij behorende gegevensverwerkingen (zie ook: Vragen van instemming en Intrekken van instemming). De woonruimteverdeler of woningcorporatie vraagt of de woningzoekende instemt met de digitale procedure om het BSN te delen. Als de woningzoekende instemt met de digitale procedure roept het woonruimteverdeelsysteem MijnOverheid aan. Via MijnOverheid kan de woningzoekende het BSN delen.</simpara>
+<simpara><emphasis role="strong">Stap 4-5. Inloggen met DigiD</emphasis></simpara>
+<simpara>De woningzoekende logt met DigiD in op de MijnOverheid-omgeving.</simpara>
+<simpara><emphasis role="strong">Stap 6-7. Delen van BSN</emphasis></simpara>
+<simpara>De woningzoekende krijgt het BSN te zien in de MijnOverheid-omgeving en wordt gevraagd of hij deze wil verstrekken aan de woonruimteverdeler of corporatie. Als de woningzoekende het BSN wil delen wordt dit verstrekt aan de woonruimteverdeler of corporatie via het koppelvlak Delen van mijn Gegevens.</simpara>
+<simpara><emphasis role="strong">Stappen 8-12. Validatie BV BSN</emphasis></simpara>
+<simpara>Op basis van het BSN raadpleegt het woonruimteverdeelsysteem op de achtergrond de Beheervoorziening BSN (BV BSN) met de verificatievraag ‘Toetsen van de combinatie BSN en identificerende gegevens’. De woonruimteverdeler of corporatie kan zo met de BV BSN controleren of de set van identificerende gegevens die de woningzoekende heeft opgegeven overeenkomt met de set van identificerende gegevens in de Basisregistratie Personen (BRP, een registratie van de overheid) behorende bij een BSN. De woonruimteverdeler of corporatie gebruikt daarvoor zoekpad 2.</simpara>
+<simpara>In de BV BSN worden [BSN, geslachtsnaam, geboortedatum, geslachtsaanduiding] van de woningzoekende gecontroleerd (zoekpad 2). Als de validatie lukt via zoekpad 2, ontvangt het woonruimteverdeelsysteem het BSN en de gevalideerde geslachtsnaam en geboortedatum van de woningzoekende. De woonruimteverdeler of corporatie toont de gevalideerde geslachtsnaam en geboortedatum aan de woningzoekende ter controle. Als de woningzoekende akkoord gaat met het gebruik van de gegevens ten behoeve van de inschrijving, verstuurt hij deze instemming aan het woonruimteverdeelsysteem.</simpara>
+<simpara><emphasis role="strong">Stap 13. Hashen van het BSN en opslaan van gevalideerde gegevens</emphasis></simpara>
+<simpara>De woonruimteverdeler of woningcorporatie gebruikt een technische oplossing om het BSN te beveiligen zodat het opgeslagen BSN niet direct herleidbaar is tot het BSN van de desbetreffende persoon. Het BSN wordt ook niet getoond aan gebruikers van het woonruimteverdeelsysteem.</simpara>
+<simpara>Het BSN wordt in het woonruimteverdeelsysteem gehasht opgeslagen zodat deze niet gemakkelijk te herleiden is naar de betreffende persoon.</simpara>
+<simpara>In het woonruimteverdeelsysteem worden, naast het gehashte BSN, de identiteitsgegevens (geslachtsnaam, geboortedatum) die gevalideerd zijn in de stappen 8-12 bewaard. De andere gegevens die gebruikt zijn voor de digitale procedure (geslachtsaanduiding) moeten verwijderd worden uit het woonruimteverdeelsysteem.</simpara>
+</section>
+<section xml:id="_delen_van_bsn_woningzoekende_bij_bestaande_inschrijving_2">
+<title>Delen van BSN woningzoekende bij bestaande inschrijving</title>
+
+</section>
+<section xml:id="_delen_van_bsn_en_inkomensgegevens_woningzoekde_bij_toewijzing">
+<title>Delen van BSN en inkomensgegevens woningzoekde bij toewijzing</title>
+
+</section>
+<section xml:id="_delen_van_bsn_en_inkomensgegevevens_medebewoner_bij_toewijzing">
+<title>Delen van BSN en inkomensgegevevens medebewoner bij toewijzing</title>
+
+</section>
+</section>
+</section>
+<section xml:id="_afspraken_met_de_accountant">
+<title>Afspraken met de accountant</title>
+
+</section>
+<section xml:id="_informatiebeveiliging_en_privacy">
+<title>Informatiebeveiliging en Privacy</title>
+
+</section>
+</section>
+</article>
