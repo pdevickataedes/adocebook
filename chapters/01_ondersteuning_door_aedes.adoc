@@ -10,7 +10,7 @@ ifndef::imagesdir[:imagesdir: ../../images]
 :toclevels: 6
 
 == Ondersteuning door Aedes
-Welkom! We zijn ontzettend blij dat het vanaf nu mogelijk is om gebruik te maken van de digitale procedure voor het delen van gegevens voor de inschrijving en de inkomenstoets. Dit zal het aanleveren van gegevens voor de inkomenstoets sneller, makkelijker en betrouwbaarder maken. Voor jullie, maar ook voor woningzoekenden.
+Welkom! We zijn ontzettend blij dat het vanaf nu mogelijk is om gebruik te maken van de digitale procedure voor het delen van gegevens voor de inschrijving en de inkomenstoets. Dit zal het aanleveren van gegevens voor de inkomenstoets sneller, makkelijker en betrouwbaarder maken. Voor jullie, maar ook voor woningzoekenden. 
 
 Wij staan voor een gestandaardiseerde en zorgvuldige implementatie conform de sectorstandaard DIV-it. Deze implementatie vereist een heel aantal stappen, die wij nauwgezet ondersteunen door middel van deze website. Onze ondersteuning bestaat uit de routekaart, achterliggende documentatie en een aantal ondersteunende sessies.
 
