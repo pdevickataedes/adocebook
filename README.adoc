@@ -1,4 +1,4 @@
-//include::chapters/config.adoc[]
+include::chapters/config.adoc[]
   
 :sectnums:
 :sectnumlevels: 6
