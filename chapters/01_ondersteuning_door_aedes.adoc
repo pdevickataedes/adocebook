@@ -4,7 +4,7 @@
 :jbake-menu: Ondersteuning
 :jbake-order: 4
 :filename: \chapters\01_ondersteuning_door_aedes.adoc
-ifndef::imagesdir[:imagesdir: ../../images]
+ifndef::imagesdir[:imagesdir: ./../images]
 
 :toc: left
 :toclevels: 6
