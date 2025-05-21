@@ -16,7 +16,7 @@
 //:numbered:
 
 //<<<<
-//// 1. Ondersteuning door Aedes
+// 1. Ondersteuning door Aedes
 //include::01_ondersteuning_door_aedes.adoc[]
 
 //<<<<
