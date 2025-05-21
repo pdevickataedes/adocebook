@@ -1,3 +1,4 @@
 Dockerfile
 action.yml
 entrypoint.sh
+.gitignore
