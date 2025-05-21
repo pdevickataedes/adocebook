@@ -1,4 +1,4 @@
-include::chapters/config.adoc[]
+//include::chapters/config.adoc[]
   
 :sectnums:
 :sectnumlevels: 6
@@ -7,7 +7,7 @@ include::chapters/config.adoc[]
 
 :jbake-menu: -
 
-= image:./DIV-it-logo.png[]Standaard voor digitale inkomensverklaring
+= image:./images/DIV-it-logo.png[]Standaard voor digitale inkomensverklaring
 :author: Aedes Datastandaarden
 :revnumber: x.y.z
 :revdate: maart 2025
